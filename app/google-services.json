@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "132276952120",
+    "firebase_url": "https://firstfbtest-406cb.firebaseio.com",
+    "project_id": "firstfbtest-406cb",
+    "storage_bucket": "firstfbtest-406cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132276952120:android:b63b2f26da984a41",
+        "android_client_info": {
+          "package_name": "com.example.tacademy.fbtest180"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132276952120-n53ifildbjg21vdsl3jp2qgrs3plk385.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAScQK_PJeYG7B9jABvsScPCNZ4MelhutY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132276952120:android:215d01cb2dc82a57",
+        "android_client_info": {
+          "package_name": "com.example.tacademy.facebooktest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132276952120-n53ifildbjg21vdsl3jp2qgrs3plk385.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAScQK_PJeYG7B9jABvsScPCNZ4MelhutY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132276952120:android:07b129fd0661273c",
+        "android_client_info": {
+          "package_name": "com.example.tacademy.testgit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132276952120-n53ifildbjg21vdsl3jp2qgrs3plk385.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAScQK_PJeYG7B9jABvsScPCNZ4MelhutY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
